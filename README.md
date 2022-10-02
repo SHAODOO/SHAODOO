@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **Computer Network and Cybersecurity**
 
-- 📫 How to reach me **ahdoo.ling010519@gmail.com**
+- 💪 Bringing forth a positive attitude and the willingness and motivation to learn new things
 
-- 📄 Know about my experiences [**shaodoo.notion.site**](https://shaodoo.notion.site/)
+- 📫 Reach me on **ahdoo.ling010519@gmail.com**
+
+- 📄 Know more about me on [**shaodoo.notion.site**](https://shaodoo.notion.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
