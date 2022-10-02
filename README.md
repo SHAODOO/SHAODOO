@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **ahdoo.ling010519@gmail.com**
 
-- 📄 Know about my experiences [shaodoo.notion.site](shaodoo.notion.site)
+- 📄 Know about my experiences [shaodoo.notion.site](https://shaodoo.notion.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ling shao doo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ling shao doo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ling-shao-doo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ling shao doo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
